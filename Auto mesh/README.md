@@ -15,4 +15,12 @@
 
 - After add coordinates for the box
 
+![Alt text](image-4.png)
+
+- Result
+
 ![Alt text](image-3.png)
+
+- Coordinate value
+
+![Alt text](image-5.png)
